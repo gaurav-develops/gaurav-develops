@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **Check social links below.**
   
-- ⚡ Fun fact: I love 
+- ⚡ Fun fact: **.**
 
 
 
