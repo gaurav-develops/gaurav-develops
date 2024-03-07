@@ -2,16 +2,21 @@
 **gauravgupta256/gauravgupta256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Gaurav</h1>
+<h1 align="center">こんにちは <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Gaurav</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <h3 align="center"><img src="https://visitcount.itsvg.in/api?id=gauravgupta256&icon=0&color=12" /> </p></h3>
 
-- 🔭 I’m currently working on **something cool**
+- 🔭 I’m currently working on **a tool**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **about Machine Learning and Blockchain Technology**
 
-- 📫 How to reach me **[gauravgupta8652@gmail.com](mailto:gauravgupta8652@gmail.com)**
+- 💬 Ask me about **Tech-related stuff.**
+
+- 📫 How to reach me: **Check social links below.**
+  
+- ⚡ Fun fact: I love 
+
 
 
 ## 🌐 Socials:
