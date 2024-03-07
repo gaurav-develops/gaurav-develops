@@ -17,7 +17,11 @@
   
 - ⚡ Fun fact: **.**
 
-<!--Description: I'm a self-taught Full-stack web/mobile developer from India. I enjoy solving complex problems and creating clean, user-friendly designs. I love coding and always aim to write elegant and efficient code, with over 2 years of experience in full-stack web development. -->
+<!--
+<p align=”center”>
+<img width=”200" height=”200" src=”github-banner.png" alt=”my banner”>
+</p>
+Description: I'm a self-taught Full-stack web/mobile developer from India. I enjoy solving complex problems and creating clean, user-friendly designs. I love coding and always aim to write elegant and efficient code, with over 2 years of experience in full-stack web development. -->
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gauravgupta256) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauravgupta256) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravgupta256) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/gauravgupta256) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gauravgupta256) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gauravgupta256) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gauravgupta256) 
