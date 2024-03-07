@@ -41,21 +41,20 @@ Description: I'm a self-taught Full-stack web/mobile developer from India. I enj
 <a href="https://www.youtube.com/channel/"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
-
-<a href="mailto:codewithgaurav@yahoo.com"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a>
-<!-- <a href="https://www.github.com/gauravgupta256"> 
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
-</a> -->
-<!-- <a href="https://twitter.com/gauravgupta256"> 
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
-</a> -->
 <a  href="https://www.linkedin.com/company/gauravgupta256/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
+<a href="https://twitter.com/gauravgupta256"> 
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
+</a>
 <a href="https://codepen.io/gauravgupta256"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
+</a>
+<a href="mailto:codewithgaurav@yahoo.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</a>
+<a href="https://www.github.com/gauravgupta256"> 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
 <br />
 
@@ -69,12 +68,12 @@ Description: I'm a self-taught Full-stack web/mobile developer from India. I enj
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")][repo]
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind")][repo]
+
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][repo]
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][repo]
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")][repo]
 [![Socket.io-client](https://img.shields.io/badge/Socket.io--client-black?style=for-the-badge&logo=socket.io&badgeColor=**010101** "Socket.io-client")][repo]
-
 <!-- [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)][repo] -->
 <!-- [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular")][repo] -->
 <!-- [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "Styled-Components")][repo] -->
