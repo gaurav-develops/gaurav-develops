@@ -32,13 +32,13 @@ Description: I'm a self-taught Full-stack web/mobile developer from India. I enj
 <a href="https://portfolio-gaurav.onrender.com"> 
     <img src="https://camo.githubusercontent.com/87fc074729340d412513f42f916b0b8a5b92c2bedbcf6a46315ea6dd18c8945c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f78266c6f676f436f6c6f723d23464637313339" title="Portfolio"  alt="Portfolio"/>
 </a>
-<a href="https://www.instagram.com/hi.coders"> 
+<a href="https://www.instagram.com/sssup.gaurav"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://discord.gg/TTsSYUJzDa"> 
+<a href="https://discord.gg/error"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
-<a href="https://www.youtube.com/channel/UC1hooNUnK4Ivk5KBaT5PKIg"> 
+<a href="https://www.youtube.com/channel/"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
 
