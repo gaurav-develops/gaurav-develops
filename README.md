@@ -6,7 +6,7 @@
 <h1 align="center">こんにちは <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Gaurav</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<h3 align="center"><img src="https://visitcount.itsvg.in/api?id=gauravgupta256&icon=0&color=12"/></h3> <h3 align="center"><img src="https://img.shields.io/github/followers/gauravgupta256?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></h3>
+<h3 align="center"><img src="[https://visitcount.itsvg.in/api?id=gauravgupta256&icon=0&color=12](https://visitcount.itsvg.in/api?id=gauravgupta256&label=Profile%20Views&color=12&icon=0&pretty=true)"/></h3> <h3 align="center"><img src="https://img.shields.io/github/followers/gauravgupta256?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></h3>
 
 - 🔭 I’m currently working on **a tool**
 
