@@ -8,11 +8,11 @@
 
 <h3 align="center"><img src="https://visitcount.itsvg.in/api?id=gauravgupta256&label=Profile%20Views&color=12&icon=0&pretty=true"/></h3> <h3 align="center"><img src="https://img.shields.io/github/followers/gauravgupta256?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></h3>
 
-- 🔭 I’m currently working on **a tool**
+- 🔭 I’m currently working on **a Tool**
 
 - 🌱 I’m currently learning **about Machine Learning and Blockchain Technology**
 
-- 💬 Ask me about **Tech-related stuff.**
+- 💬 Ask me about **Tech-Related stuff.**
 
 - 📫 How to reach me: **Check social links below.**
   
