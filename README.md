@@ -1,12 +1,12 @@
 <!--
-**gauravgupta256/gauravgupta256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**gaurav-develops/gaurav-develops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<!-- <img src="https://raw.githubusercontent.com/gauravgupta256/gauravgupta256/main/assets/profile-banner.gif" width="3000" /> -->
+<!-- <img src="https://raw.githubusercontent.com/gaurav-develops/gaurav-develops/main/assets/profile-banner.gif" width="3000" /> -->
 
 <h1 align="center">こんにちは <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Gaurav</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<h3 align="center"><img src="https://visitcount.itsvg.in/api?id=gauravgupta256&label=Profile%20Views&color=12&icon=0&pretty=true"/></h3> <h3 align="center"><img src="https://img.shields.io/github/followers/gauravgupta256?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></h3>
+<h3 align="center"><img src="https://visitcount.itsvg.in/api?id=gaurav-develops&label=Profile%20Views&color=12&icon=0&pretty=true"/></h3> <h3 align="center"><img src="https://img.shields.io/github/followers/gaurav-develops?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></h3>
 
 - 🔭 I’m currently working on **a Tool**
 
@@ -41,13 +41,13 @@ Description: I'm a self-taught Full-stack web/mobile developer from India. I enj
 <a href="https://www.youtube.com/channel/"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
-<a  href="https://www.linkedin.com/company/gauravgupta256/">
+<a  href="https://www.linkedin.com/company/gaurav-develops/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/gauravgupta256"> 
+<a href="https://twitter.com/gaurav-develops"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
-<a href="https://codepen.io/gauravgupta256"> 
+<a href="https://codepen.io/gaurav-develops"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a>
 <a href="mailto:codewithgaurav@yahoo.com"> 
@@ -230,13 +230,13 @@ Description: I'm a self-taught Full-stack web/mobile developer from India. I enj
 ---
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gauravgupta) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gauravgupta256) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/gauravgupta256) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gauravgupta256)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gauravgupta) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gaurav-develops) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/gaurav-develops) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gaurav-develops)
 
 ## **Thanks for checking out my GitHub Profile!** 🙏
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
-<!-- ![](https://img.shields.io/github/followers/gauravgupta256?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
+<!-- ![](https://img.shields.io/github/followers/gaurav-develops?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgupta256&theme=onedark) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-develops&theme=onedark) -->
 
