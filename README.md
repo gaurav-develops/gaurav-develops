@@ -249,7 +249,7 @@ Description: I'm a self-taught Full-stack web/mobile developer from India. I enj
 
 ## **Thanks for checking out my GitHub Profile!** 🙏
 
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
+[![Thank-You](https://ForTheBadge.com/images/badges/built-with-love.svg "Thank-You")][repo]
 
 <!-- ![](https://img.shields.io/github/followers/gaurav-develops?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
 
