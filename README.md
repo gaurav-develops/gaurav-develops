@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **Check social links below.**
   
-- ⚡ Fun fact: ****
+- ⚡ Fun fact: 
 
 ```python
 ┌──(gaurav-develops@root)-[~/]
