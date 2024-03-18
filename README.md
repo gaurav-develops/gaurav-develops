@@ -16,7 +16,22 @@
 
 - 📫 How to reach me: **Check social links below.**
   
-- ⚡ Fun fact: **.**
+- ⚡ Fun fact: ****
+
+```python
+┌──(gaurav-develops@root)-[~/]
+└─$ gaurav-develops.py
+
+class gaurav-develops:
+
+def  __social__(self):
+ self.gtb = "https://github.com/gaurav-develops"
+ self.dsc = "@sssup.gaurav" 
+ self.tlg = "@sssup.gaurav"
+  
+ ┌──(gaurav-develops@root)-[~/]
+ └─$
+```
 
 <!--
 <p align=”center”>
